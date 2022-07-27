@@ -20,3 +20,7 @@ body {
     background: #000;
     opacity: 0.6;
 }
+
+.carousel-caption {
+    margin-bottom: 200px;
+}
