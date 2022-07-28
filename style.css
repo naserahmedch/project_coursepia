@@ -13,10 +13,6 @@ body {
     filter: brightness(60%);
 }
 
-.carousel-caption {
-    margin-bottom: 160px;
-}
-
 .h-fix {
     font-size: 3.8rem;
     max-width: 600px;
