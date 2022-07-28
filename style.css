@@ -28,7 +28,6 @@ body {
 .h-fix {
     font-size: 3.8rem;
     max-width: 600px;
-    margin-left: 150px;
     font-weight: 600;
 }
 
@@ -36,4 +35,8 @@ body {
     max-width: 720px;
     margin-left: 90px;
     font-size: 1.1rem;
+}
+
+.mw-600 {
+    max-width: 600px;
 }
