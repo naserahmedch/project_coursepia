@@ -28,3 +28,11 @@ body {
 .mw-600 {
     max-width: 600px;
 }
+
+.mw-390 {
+    max-width: 390px;
+}
+
+footer {
+    height: 450px;
+}
